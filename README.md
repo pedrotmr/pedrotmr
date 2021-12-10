@@ -3,7 +3,7 @@
 #### About me 
 
 - Full Stack Software Engineer in the JS ecosystem
-- Passionate about design and developing visual appealing apps
+- Passionate about design and developing visually appealing apps
 - Also a blockchain and crypto enthusiast
 - Based remotely, I've been bit of a nomad
 
