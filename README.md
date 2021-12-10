@@ -1,27 +1,27 @@
 # Hey I'm Pedro 👋
 
-### About me 
+#### About me 
 
 - Full Stack Software Engineer in the JS ecosystem
 - Passionate about design and developing visual appealing apps
 - Also a blockchain and crypto enthusiast
 - Based remotely, I've been bit of a nomad
 
-### What I'm up to
+#### What I'm up to
 
 - Learning more about Blockchain development, web3 and solidity!
 
-### Latest Projects
+#### Latest Projects
 
 - Zims - https://github.com/ehp2021/zims
 - Juicy - 
 - Schlepper
 
-### How to reach me
+#### How to reach me
 - Email: pedrotr@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/pedro-ramos-2ab250134/
 
-### Tech Stack
+#### Tech Stack
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
