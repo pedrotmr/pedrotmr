@@ -13,7 +13,7 @@
 
 #### Latest Projects
 
-- Zims - https://github.com/ehp2021/zims
+- Zims - https://github.com/pedrotmr/zims
 - Juicy - 
 - Schlepper
 
