@@ -14,8 +14,8 @@
 #### Latest Projects
 
 - Zims - https://github.com/pedrotmr/zims
-- Juicy - 
-- Schlepper
+- Juicy - https://github.com/pedrotmr/juicy
+- Schlepper - https://github.com/marshalfisher/schlepper-app
 
 #### How to reach me
 - Email: pedrotr@hotmail.com
