@@ -19,7 +19,7 @@
 
 #### How to reach me
 - Email: pedrotr@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/pedro-ramos-2ab250134/
+- LinkedIn: https://www.linkedin.com/in/pedrotmr/
 
 #### Tech Stack
 <p>
