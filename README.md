@@ -15,7 +15,7 @@
 
 - Zims - https://github.com/pedrotmr/zims
 - Juicy - https://github.com/pedrotmr/juicy
-- Schlepper - https://github.com/marshalfisher/schlepper-app
+- Schlepper - https://github.com/pedrotmr/schlepper-app
 
 #### How to reach me
 - Email: pedrotr@hotmail.com
