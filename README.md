@@ -15,7 +15,7 @@
 
 - Zims - https://github.com/pedrotmr/zims
 - Juicy - https://github.com/pedrotmr/juicy
-- Web3-Dapp - https://github.com/pedrotmr/web3-dapp
+- Crypto Tools - https://github.com/pedrotmr/web3-dapp
 - Schlepper - https://github.com/pedrotmr/schlepper-app
 
 #### How to reach me
