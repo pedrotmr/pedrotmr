@@ -2,20 +2,16 @@
 
 #### About me 
 
-- Full Stack Software Engineer in the JS ecosystem
-- Passionate about design and developing visually appealing apps
-- Also a blockchain and crypto enthusiast
+- Frontend Developer in the Javascript ecosystem
+- Passionate about design and user-driven interfaces
+- Blockchain and crypto enthusiast
 - Based remotely, I've been bit of a nomad
-
-#### What I'm up to
-
-- Learning more about Blockchain development, web3 and solidity!
 
 #### Latest Projects
 
+- Crypto Tools - https://github.com/pedrotmr/web3-dapp
 - Zims - https://github.com/pedrotmr/zims
 - Juicy - https://github.com/pedrotmr/juicy
-- Crypto Tools - https://github.com/pedrotmr/web3-dapp
 - Schlepper - https://github.com/pedrotmr/schlepper-app
 
 #### How to reach me
